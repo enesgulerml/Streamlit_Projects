@@ -56,7 +56,7 @@ Streamlit/
 
 ```bash
 git clone https://github.com/enesgulerml/Streamlit_Projects/watch_price_prediction.git
-cd luxury-watch-prediction/project_1
+cd watch_price_prediction
 ```
 
 2. Install dependencies:
