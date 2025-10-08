@@ -55,7 +55,7 @@ Streamlit/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/luxury-watch-prediction.git
+git clone https://github.com/enesgulerml/Streamlit_Projects/watch_price_prediction.git
 cd luxury-watch-prediction/project_1
 ```
 
