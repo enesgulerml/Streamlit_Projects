@@ -34,8 +34,8 @@ Python 3.8+
 pip or conda package manager
 
 ### Step 1: Clone the Repository
-git clone [https://github.com/enesgulerml/Streamlit_Practice.git](https://github.com/enesgulerml/Streamlit_Practice.git)
-cd Streamlit_Practice
+git clone [https://github.com/enesgulerml/Streamlit_Projects.git](https://github.com/enesgulerml/Streamlit_Projects.git)
+cd Streamlit_Projects
 
 ### Step 2: Create a Virtual Environment (Recommended)
 Create and activate a virtual environment to isolate the project:
